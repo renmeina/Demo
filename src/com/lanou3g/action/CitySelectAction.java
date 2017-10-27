@@ -15,7 +15,7 @@ import java.util.List;
  * Created by dllo on 17/10/27.
  */
 public class CitySelectAction extends ActionSupport {
-    //JSP页面用来显示集合
+    //JSP页面用来显示集合 用来存储所有大区的集合
     private List<Area> areaList;
 
     //3定义变量 接收选择的是哪个大区
