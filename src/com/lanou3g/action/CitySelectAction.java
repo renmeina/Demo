@@ -18,6 +18,8 @@ public class CitySelectAction extends ActionSupport {
     //JSP页面用来显示集合 用来存储所有大区的集合
     private List<Area> areaList;
 
+    //添加了登录注册功能
+    //添加查找功能
     //3定义变量 接收选择的是哪个大区
     private int index;
     private List<Server> servers;
